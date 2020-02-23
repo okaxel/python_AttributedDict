@@ -60,4 +60,4 @@ def main():
 if __name__ == '__main__':
     main()
 else:
-    print('This is a script not a module')
+    print('This is a script not a module.')
